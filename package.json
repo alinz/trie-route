@@ -1,0 +1,12 @@
+{
+  "name": "trie-route",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Ali Najafizadeh <a.najafizadeh@gmail.com>",
+
+  "main": "lib/index.js",
+
+  "dependencies": {
+    "trie-map": "0.0.1"
+  }
+}
