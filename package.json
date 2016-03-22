@@ -7,6 +7,6 @@
   "main": "lib/index.js",
 
   "dependencies": {
-    "trie-map": "0.0.1"
+    "trie-map": "0.0.2"
   }
 }
