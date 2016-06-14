@@ -31,3 +31,10 @@ console.log('error:', error);
 error = router.process('/users/14/enemies');
 console.log('error:', error);
 ```
+
+
+## Release Note
+
+### 0.0.5
+
+- added opt in `router.process(path, opt)`. `opt` will be pass to callback as 3rd argument.
